@@ -1,0 +1,22 @@
+{
+  "title": "Laboratório de Redes ETEC - Configuração IP",
+  "description": "Recupere a conectividade deste servidor Linux.",
+  "details": {
+    "steps": [
+      {
+        "title": "Configuração de Interface e Rota",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
