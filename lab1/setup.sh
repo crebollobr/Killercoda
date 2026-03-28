@@ -3,3 +3,4 @@
 ip addr flush dev enp1s0
 ip link set enp1s0 down
 ip route del default
+echo > /etc/resolv.conf
